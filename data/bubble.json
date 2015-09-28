@@ -1,0 +1,10 @@
+[
+    {"name":"深圳", "value1": 100, "value2": 105},
+    {"name":"广州", "value1": 200, "value2": 345},
+    {"name":"长沙", "value1": 80, "value2": 85},
+    {"name":"武汉", "value1": 170, "value2": 145},
+    {"name":"北京", "value1": 300, "value2": 395},
+    {"name":"上海", "value1": 120, "value2": 341},
+    {"name":"天津", "value1": 500, "value2": 455},
+    {"name":"青岛", "value1": 100, "value2": 35}
+] 

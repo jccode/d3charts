@@ -1,0 +1,29 @@
+{
+  "name": "d3charts",
+  "version": "1.0.0",
+  "description": "d3charts",
+  "main": "index.js",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "keywords": [
+    "d3",
+    "chart"
+  ],
+  "authors": [
+    "jcchen"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "d3": "~3.5.6"
+  }
+}

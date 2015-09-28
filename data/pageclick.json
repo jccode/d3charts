@@ -1,0 +1,43 @@
+{
+    "name": "pageclick",
+    "children": [
+        {
+            "name": "index.html",
+            "children": [
+                {"name": "banner1", "size": 23}, 
+                {"name": "banner2", "size": 33}, 
+                {"name": "banner3", "size": 13}, 
+                {"name": "理财7天产品", "size": 73}, 
+                {"name": "理财30天产品", "size": 21}, 
+                {"name": "信托金15第06期", "size": 21}, 
+                {"name": "信托金07第91期", "size": 89}, 
+                {"name": "信托金07第92期", "size": 41}, 
+                {"name": "丰融新三板1号基金", "size": 41}, 
+                {"name": "新闻资讯", "size": 10}, 
+                {"name": "万里通", "size": 8}, 
+                {"name": "大华基金", "size": 4}
+            ]
+        },
+        {
+            "name": "licai.html",
+            "children": [
+                {"name": "体验金", "size": 69}, 
+                {"name": "banner1", "size": 13}, 
+                {"name": "banner2", "size": 13}, 
+                {"name": "banner3", "size": 19}, 
+                {"name": "相关资料", "size": 19}, 
+                {"name": "投标记录", "size": 19}, 
+                {"name": "立即投资", "size": 69}, 
+                {"name": "项目介绍", "size": 40}
+            ]
+        },
+        {
+            "name": "register.html",
+            "children": [
+                {"name": "注册", "size": 29}, 
+                {"name": "登陆", "size": 98}, 
+                {"name": "忘记密码", "size": 7}
+            ]
+        }
+    ]
+} 
